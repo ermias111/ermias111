@@ -1,4 +1,4 @@
-## Hi, I am Ermias :wave: :man_technologist:
+## Hi there :wave: :man_technologist:
 <!--
 **ermias111/ermias111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
